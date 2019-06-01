@@ -1,0 +1,6 @@
+Strategy
+Observer
+Mediator
+Template(sort of... creation?) Abstraction
+Factory for creating invaders and towers
+Singleton

@@ -1,0 +1,29 @@
+'''I tried to use trigonometry to use more straight-shot homing missiles. It has not yet worked properly.'''
+    '''TO DO: FIXMEFIXMEFIXME'''
+    # def _compute_new_position(self):
+    #     y_opposite = self._target_y - self._y
+    #     x_adjacent = self._target_x - self._x
+    #     theta = self._compute_theta(y_opposite, x_adjacent)
+    #     hypotenuse = math.sqrt((x_adjacent * x_adjacent) + (y_opposite * y_opposite))
+    #     if self._speed <= hypotenuse:
+    #         self._xposition = self._speed * math.cos(theta)
+    #         self._yposition = self._speed * math.sin(theta)
+    #     else:
+    #         self._isMoving = False
+    #
+    # def _compute_theta(self, opposite, adjacent):
+    #     if (opposite != 0) and (adjacent != 0):
+    #         return math.tan(opposite/adjacent)
+    #     elif (opposite == 0) and (adjacent == 0):
+    #         theta = None
+    #     else:
+    #         if adjacent == 0:
+    #             if opposite > 0:
+    #                 return math.pi / 2
+    #             else:
+    #                 return (3 * math.pi) / 4
+    #         elif opposite == 0:
+    #             if adjacent > 0:
+    #                 return 0
+    #             else:
+    #                 return math.pi

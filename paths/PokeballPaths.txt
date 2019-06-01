@@ -1,0 +1,4 @@
+PokeballPath-Top.txt
+PokeballPath-UpperMid.txt
+PokeballPath-LowerMid.txt
+PokeballPath-Bottom.txt

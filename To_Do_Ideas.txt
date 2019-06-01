@@ -1,0 +1,6 @@
+Tower Defense To-Do ideas
+Current-tower gui.
+New shoot behaviors: Shockwave! or place a wall onto the path!
+new monster(shape): my battle game monster
+Tower Power-ups: shields!
+	REQUIRED: decorator pattern and proxy pattern
